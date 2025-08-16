@@ -12,3 +12,4 @@
   systemd:
     state: started
     name: nginx
+    
